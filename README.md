@@ -1,2 +1,2 @@
-# Clustering-methods
-Clustering methods implemented using python's sklearn library
+# Clustering and Dimension Reduction methods
+Clustering and Dimension Reduction methods implemented using python's sklearn library.
